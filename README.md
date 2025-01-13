@@ -8,13 +8,19 @@
 
 ## Who Am I? 🚀
 
-I am a Computer Lab Technician and a second-year Computer Science student. Currently, I am transitioning from a career in automation to computer science, aiming to develop professional software. Additionally, I work part-time as a programming tutor for children and teenagers, which marks the beginning of my journey into programming. I am eager to take the next step in my development and advance my programming skills. I am also actively involved in the newly formed programming club at my university.
+I am a Programmer - Electronic designer R&D and a Computer Science student on PJATK. 
 
 ## Experience 💼
+### Programmer - Electronic designer R&D
+- **Company:** Radmor WB Group, Gdynia
+- **Duration:** 10/2024--Present
+- Python desktop and C/C++ embeded programing (stm32 barematel/freeRTOS).
+- Electronics designing.
+- Automated hardware testing designing.
 
 ### Computer Laboratory Technician
 - **Company:** Manpower Group, Gdańsk
-- **Duration:** 12/2023--Present
+- **Duration:** 12/2023--09/2024
 - Soldering SMD components, performing repairs of computer components using schematics, boardview files, and documentation, assembling and configuring PC platforms, and maintaining and updating databases.
 
 ### Building Maintenance Technician
@@ -50,7 +56,7 @@ I am a Computer Lab Technician and a second-year Computer Science student. Curre
 
 ## Additional Information ℹ️
 
-- **Languages:** Polish (Native), English (B1)
+- **Languages:** Polish (Native), English (B1+)(Tryhard in progress) 
 - **Certifications:**
   - Python Essentials 1 - Issued by Cisco
   - Computer Hardware Basics - Issued by Cisco
