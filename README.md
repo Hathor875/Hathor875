@@ -1,6 +1,6 @@
 # Krzysztof Cieślik
 
-## Computer Lab Technician 🖥️
+## Programmer - Electronic designer R&D
 
 - **Location:** Gdańsk, Poland
 - **Email:** [krzysztofcieslik875@gmail.com](mailto:krzysztofcieslik875@gmail.com)
