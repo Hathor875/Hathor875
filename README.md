@@ -1,1 +1,1 @@
-![CV](https://hathor875.github.io/CV/prevew.jpg?v=2)
+![CV](https://hathor875.github.io/CV/preview.jpg?v=2)
