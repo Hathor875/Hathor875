@@ -12,7 +12,7 @@ Here you'll find an up-to-date and stylish PDF resume generated directly from La
 
 ## 🔍 Quick Link
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/krzysztof-cieslik)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/krzysztof-cie%C5%9Blik-968128223)  
 
 ---
 
